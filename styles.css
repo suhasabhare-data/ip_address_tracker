@@ -41,9 +41,14 @@
     4. Improve text rendering
   */
 body {
-  line-height: 1.5;
-  -webkit-font-smoothing: antialiased;
+  background-image: url("https://i.gifer.com/7VE.gif"); /* Matrix code animation */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: #00ff00; /* Optional: Matrix green text */
 }
+
 
 /*
     5. Improve media defaults
